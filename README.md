@@ -4,7 +4,7 @@ Getting Started
 
 ```sh
 # clone it
-git clone git@github.com:developit/express-es6-rest-api.git
+git clone https://github.com/overflowjs-com/image_app_opencv_api_part3.git
 
 # Make it your own
 rm -rf .git && git init && npm init
