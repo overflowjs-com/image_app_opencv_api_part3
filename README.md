@@ -1,4 +1,10 @@
 
+This is the 3rd part of Image processing series on https://overflowjs.com/
+
+This is the backend code, written in node.js using express framework and OpenCV. 
+
+Do read the blog to know more - https://overflowjs.com/posts/Image-Processing-OpenCV-and-Nodejs-Part-3.html
+
 Getting Started
 ---------------
 
